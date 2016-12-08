@@ -1,5 +1,5 @@
 @extends('layout')
 
 @section('content')
-	The welcome page goes here.
+	The about page goes here.
 @stop
